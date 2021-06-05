@@ -3,7 +3,7 @@
 
 ## Zindi ASR Competition 
 
-[![image-20210605165339167](img\image-20210605165339167.png)]([AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF - Zindi](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof))
+[![image-20210605165339167](img/image-20210605165339167.png)]([AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF - Zindi](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof))
 
 The challenge will focus on a public transport use case for two reasons. First, many users of public transport can’t read or speak French, so they can’t interact with existing apps that help passengers to find a bus for a given destination. And second, there is already an existing app in Senegal, [WeeGo](https://www.weegolines.com/), which helps passengers to get transport information.
 
@@ -23,7 +23,7 @@ Baamtu Datamation is a Senegalese company focused on helping companies to levera
 
 ## WOLOF Speech Data
 
-[![Zindi](img\Zindi.svg)]([AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF - Zindi](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data))
+[![Zindi](img/Zindi.svg)]([AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF - Zindi](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data))
 
 The Zindi data is easily accessible if you have Zindia account. **I don't have permission to publish the data in repos due to their updates in terms and conditions.**
 
@@ -70,19 +70,19 @@ I have used competition data and converted pandas dataset into transformer data 
 
 ## Model Available 
 
-[![huggingface](img/HF.svg)]([kingabzpro/wav2vec2-large-xlsr-53-wolof · Hugging Face](https://huggingface.co/kingabzpro/wav2vec2-large-xlsr-53-wolof))
+![huggingface](img/HF.svg)
 
 [![github](https://img.shields.io/badge/huggingface-wav2vec2_large_xlsr_53_wolof -ffbf00?logo=huggingface&logocolor=black&style=for-the-badge)](https://huggingface.co/kingabzpro/wav2vec2-large-xlsr-53-wolof)
 
 You can download my model from hugging face and use it directly to produce similar results. I have also added my best submission file in `.cvs` so that you can test it on competition page. 
 
-[![image-20210605165906300](img\image-20210605165906300.png)](https://huggingface.co/kingabzpro/wav2vec2-large-xlsr-53-wolof)
+[![image-20210605165906300](img/image-20210605165906300.png)](https://huggingface.co/kingabzpro/wav2vec2-large-xlsr-53-wolof)
 
 Repo Image Credit: [miro]([0*yiRqJ9RcZ9suWOFK.jpg (700×467) (medium.com)](https://miro.medium.com/max/700/0*yiRqJ9RcZ9suWOFK.jpg)) 
 
 ## Results
 
-![score](img\score.png)
+![score](img/score.png)
 
 You can check my result on [Zindi](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/leaderboard), I got 8th rank in AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF
 
