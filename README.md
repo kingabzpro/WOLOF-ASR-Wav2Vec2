@@ -3,7 +3,7 @@
 
 ## Zindi ASR Competition 
 
-[![image-20210605165339167](img/image-20210605165339167.png)]([AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF - Zindi](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof))
+[![image-20210605165339167](img/image-20210605165339167.png)](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof)
 
 The challenge will focus on a public transport use case for two reasons. First, many users of public transport can’t read or speak French, so they can’t interact with existing apps that help passengers to find a bus for a given destination. And second, there is already an existing app in Senegal, [WeeGo](https://www.weegolines.com/), which helps passengers to get transport information.
 
@@ -23,7 +23,8 @@ Baamtu Datamation is a Senegalese company focused on helping companies to levera
 
 ## WOLOF Speech Data
 
-[![Zindi](img/Zindi.svg)]([AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF - Zindi](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data))
+<a href="https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/data">
+<img src="img/Zindi.svg"/></a>
 
 The Zindi data is easily accessible if you have Zindia account. **I don't have permission to publish the data in repos due to their updates in terms and conditions.**
 
