@@ -49,9 +49,9 @@ _I have used **Joblib** Parallel to reduce the conversion time._
 
 ### Reference
 
-Idea is from this notebook : https://www.kaggle.com/raghaw/panda-medium-resolution-dataset-25x256x256
+Idea is from this notebook :[Kaggle]( https://www.kaggle.com/raghaw/panda-medium-resolution-dataset-25x256x256)
 
-Joblib Parallel form : https://www.youtube.com/watch?v=Ny3O4VpACkc&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=4
+Joblib Parallel form : [YouTube](https://www.youtube.com/watch?v=Ny3O4VpACkc&list=PL98nY_tJQXZnoCDfHLo58tRHUyNvrRVzn&index=4)
 
 
 
@@ -67,19 +67,19 @@ The main function was inspired by [Remove Background/Dead Noise](https://www.kag
 
 I have used competition data and converted pandas dataset into transformer data set for data preprocessing. I have explained everything in notebook. you can also play around will model parameters to improve the performance. 
 
-**Most of the code was inspired by [fine-tune-xlsr-wav2vec2](https://huggingface.co/blog/fine-tune-xlsr-wav2vec2) **
+**Most of the code was inspired by [fine-tune-xlsr-wav2vec2](https://huggingface.co/blog/fine-tune-xlsr-wav2vec2)**
 
 ## Model Available 
 
 ![huggingface](img/HF.svg)
 
-[![github](https://img.shields.io/badge/huggingface-wav2vec2_large_xlsr_53_wolof -ffbf00?logo=huggingface&logocolor=black&style=for-the-badge)](https://huggingface.co/kingabzpro/wav2vec2-large-xlsr-53-wolof)
+[![github](https://img.shields.io/badge/huggingface-wav2vec2_large_xlsr_53_wolof-ffbf00?logo=huggingface&style=for-the-badge)](https://huggingface.co/kingabzpro/wav2vec2-large-xlsr-53-wolof)
 
 You can download my model from hugging face and use it directly to produce similar results. I have also added my best submission file in `.cvs` so that you can test it on competition page. 
 
 [![image-20210605165906300](img/image-20210605165906300.png)](https://huggingface.co/kingabzpro/wav2vec2-large-xlsr-53-wolof)
 
-Repo Image Credit: [miro]([0*yiRqJ9RcZ9suWOFK.jpg (700×467) (medium.com)](https://miro.medium.com/max/700/0*yiRqJ9RcZ9suWOFK.jpg)) 
+Repo Image Credit: [miro](https://miro.medium.com/max/700/0*yiRqJ9RcZ9suWOFK.jpg)
 
 ## Results
 
