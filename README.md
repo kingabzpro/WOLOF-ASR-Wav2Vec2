@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/36753484/122463610-3dfb6e80-cfcf-11eb-9add-f171e902c9e4.png)
+
+
 # WOLOF-ASR-Wav2Vec2
  Audio preprocessing and finetuning using wav2vec2-large-xlsr model on AI4D Baamtu Datamation - automatic speech recognition in WOLOF data.
 
