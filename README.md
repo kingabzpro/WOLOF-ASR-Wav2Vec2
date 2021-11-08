@@ -90,4 +90,4 @@ Repo Image Credit: [miro](https://miro.medium.com/max/700/0*yiRqJ9RcZ9suWOFK.jpg
 You can check my result on [Zindi](https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof/leaderboard), I got 8th rank in AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF
 
 **Result**: 7.88 %
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T45YP5N)
